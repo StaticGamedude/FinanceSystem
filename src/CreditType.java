@@ -1,0 +1,12 @@
+
+public enum CreditType 
+{
+	FOOD,
+	POWER,
+	WATERANDTRASH,
+	RENT,
+	ENTERTAINMENT,
+	LOANS,
+	OTHER,
+	PERSONAL
+}
